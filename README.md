@@ -1,5 +1,5 @@
 # Todo-App
-📝 React Todo App
+📝 React Todo App - 
 A simple and elegant Todo App built with ReactJS, styled with CSS, and powered by Local Storage for persistent task management.
 This project demonstrates clean component-based architecture, state management with React hooks, and client-side data persistence without a backend.
 
